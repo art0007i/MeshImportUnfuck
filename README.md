@@ -1,3 +1,5 @@
+# archived because because bug was fixed upstream
+
 # MeshImportUnfuck
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that fixes the silly bug [#2388](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/2388).
